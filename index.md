@@ -1,5 +1,9 @@
 # This is a Matkdown file
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ```java
 public static void main(sting[] args)
 ```
